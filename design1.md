@@ -1,4 +1,4 @@
-<div class="header" style="align:center;border-style:groove;">
+<div class="header" style="align:center;border-style:groove;" align="center">
 <img src="cover(3).png" alt="☕ The Bistro Ke Newsletter" width="500px">
 <p style="color:grey;">Together With</p>
 <img src="cover(5).png" alt="The Noesis Ke" width="300px">
